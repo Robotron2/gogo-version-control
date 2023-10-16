@@ -50,3 +50,13 @@ body {
 	grid-row: 6/8;
 	background: purple;
 }
+
+button {
+	padding: 10px;
+	background-color: purple;
+	color: white;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+	font-size: 20px;
+}
